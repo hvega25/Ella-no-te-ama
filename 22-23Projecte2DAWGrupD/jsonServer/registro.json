@@ -1,0 +1,327 @@
+{
+    "registro": [
+        {
+            "id": "2",
+            "name": "Herson",
+            "surname": "Vega",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "07/03/2023"
+        }
+        ,
+        {
+            "id": "17",
+            "name": "Reymon",
+            "surname": "Vega",
+            "in": "20:10",
+            "out": "21:00",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "18",
+            "name": "Luis",
+            "surname": "Castillo",
+            "in": "15:25",
+            "out": "16:20",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "1",
+            "name": "Jonathan",
+            "surname": "Valle",
+            "in": "18:30",
+            "out": "19:20",
+            "data": "08/03/2023"
+        },
+        {
+            "id": "2",
+            "name": "Herson",
+            "surname": "Vega",
+            "in": "19:20",
+            "out": "20:10",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "3",
+            "name": "Adrian",
+            "surname": "Berruezo",
+            "in": "17:15",
+            "out": "16:20",
+            "data": "08/03/2023"
+        }, {
+            "id": "4",
+            "name": "Martin",
+            "surname": "Casco",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        , {
+            "id": "5",
+            "name": "Leonardo",
+            "surname": "Chávez",
+            "in": "15:25",
+            "out": "16:20",
+            "data": "08/03/2023"
+        }, {
+            "id": "6",
+            "name": "Ivan",
+            "surname": "Cózar",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "09/03/2023"
+        }
+        ,
+        {
+            "id": "7",
+            "name": "Joan",
+            "surname": "Giménez",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "8",
+            "name": "Guillem",
+            "surname": "Berruezo",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "9",
+            "name": "Eduard",
+            "surname": "Miranda",
+            "in": "18:30",
+            "out": "19:20",
+            "data": "08/03/2023"
+        },
+        {
+            "id": "10",
+            "name": "Aitor",
+            "surname": "Monge",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "11",
+            "name": "Ivan",
+            "surname": "Petrov",
+            "in": "17:15",
+            "out": "16:20",
+            "data": "09/03/2023"
+        },
+        {
+            "id": "12",
+            "name": "Matías",
+            "surname": "Rodríguez",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "07/03/2023"
+        }
+        ,
+        {
+            "id": "13",
+            "name": "Mitchel",
+            "surname": "Rosado",
+            "in": "20:10",
+            "out": "21:00",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "14",
+            "name": "Raúl",
+            "surname": "Rufo",
+            "in": "15:25",
+            "out": "16:20",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "15",
+            "name": "Kevin",
+            "surname": "Sama",
+            "in": "18:30",
+            "out": "19:20",
+            "data": "08/03/2023"
+        },
+        {
+            "id": "16",
+            "name": "Raúl",
+            "surname": "Vaquerizo",
+            "in": "19:20",
+            "out": "20:10",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "17",
+            "name": "Reymon",
+            "surname": "Vega",
+            "in": "17:15",
+            "out": "16:20",
+            "data": "08/03/2023"
+        }, {
+            "id": "18",
+            "name": "Luis",
+            "surname": "Castillo",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "1",
+            "name": "Jonathan",
+            "surname": "Valle",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "2",
+            "name": "Herson",
+            "surname": "Vega",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "3",
+            "name": "Adrian",
+            "surname": "Berruezo",
+            "in": "18:30",
+            "out": "19:20",
+            "data": "08/03/2023"
+        },
+        {
+            "id": "4",
+            "name": "Martin",
+            "surname": "Casco",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "5",
+            "name": "Leonardo",
+            "surname": "Chávez",
+            "in": "17:15",
+            "out": "16:20",
+            "data": "09/03/2023"
+        },{
+            "id": "6",
+            "name": "Ivan",
+            "surname": "Cózar",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "07/03/2023"
+        }
+        ,
+        {
+            "id": "7",
+            "name": "Joan",
+            "surname": "Giménez",
+            "in": "20:10",
+            "out": "21:00",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "8",
+            "name": "Guillem",
+            "surname": "Jimenez",
+            "in": "15:25",
+            "out": "16:20",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "9",
+            "name": "Eduard",
+            "surname": "Miranda",
+            "in": "18:30",
+            "out": "19:20",
+            "data": "08/03/2023"
+        },
+        {
+            "id": "10",
+            "name": "Aitor",
+            "surname": "Monge",
+            "in": "19:20",
+            "out": "20:10",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "11",
+            "name": "Ivan",
+            "surname": "Petrov",
+            "in": "17:15",
+            "out": "16:20",
+            "data": "08/03/2023"
+        }, {
+            "id": "12",
+            "name": "Matías",
+            "surname": "Rodríguez",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "13",
+            "name": "Mitchel",
+            "surname": "Rosado",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "14",
+            "name": "Raúl",
+            "surname": "Rufo",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "15",
+            "name": "Kevin",
+            "surname": "Sama",
+            "in": "18:30",
+            "out": "19:20",
+            "data": "08/03/2023"
+        },
+        {
+            "id": "6",
+            "name": "Raúl",
+            "surname": "Vaquerizo",
+            "in": "16:20",
+            "out": "17:25",
+            "data": "08/03/2023"
+        }
+        ,
+        {
+            "id": "17",
+            "name": "Reymon",
+            "surname": "Vega",
+            "in": "20:10",
+            "out": "21:00",
+            "data": "25/03/2023"
+        }
+    ]
+}

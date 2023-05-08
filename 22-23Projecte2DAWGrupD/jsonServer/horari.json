@@ -1,0 +1,168 @@
+{
+    "horari": [
+        {
+            "lunes": [
+                {
+                    "horaInicio": "15:25",
+                    "horaFin": "16:20",
+                    "curso": "DAW2",
+                    "modulo": "M12",
+                    "profesor": "Roger Sobrino",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "16:20",
+                    "horaFin": "17:15",
+                    "curso": "DAW2",
+                    "modulo": "M12",
+                    "profesor": "Josep Oriol",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "17:15",
+                    "horaFin": "18:10",
+                    "curso": "DAW2",
+                    "modulo": "Tutoria",
+                    "profesor": "Juanma Sanchez",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "18:30",
+                    "horaFin": "20:10",
+                    "curso": "DAW2",
+                    "modulo": "M06",
+                    "profesor": "Gerard Rodriguez",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "20:10",
+                    "horaFin": "21:00",
+                    "curso": "DAW2",
+                    "modulo": "M02",
+                    "profesor": "Pere Guitart",
+                    "aula": "A45"
+                }
+            ],
+            "martes": [
+                {
+                    "horaInicio": "15:25",
+                    "horaFin": "16:20",
+                    "curso": "DAW2",
+                    "modulo": "M12",
+                    "profesor": "Roger Sobrino",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "16:20",
+                    "horaFin": "17:15",
+                    "curso": "DAW2",
+                    "modulo": "M12",
+                    "profesor": "Josep Oriol",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "17:15",
+                    "horaFin": "19:30",
+                    "curso": "DAW2",
+                    "modulo": "M09",
+                    "profesor": "Josep Oriol",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "19:30",
+                    "horaFin": "21:00",
+                    "curso": "DAW2",
+                    "modulo": "M07",
+                    "profesor": "Roger Sobrino",
+                    "aula": "A45"
+                }
+            ],
+            "miercoles": [
+                {
+                    "horaInicio": "16:20",
+                    "horaFin": "17:15",
+                    "curso": "DAW2",
+                    "modulo": "M12",
+                    "profesor": "Roger Sobrino",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "17:15",
+                    "horaFin": "18:10",
+                    "curso": "DAW2",
+                    "modulo": "M08",
+                    "profesor": "Juanma Sanchez",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "18:30",
+                    "horaFin": "21:00",
+                    "curso": "DAW2",
+                    "modulo": "M06",
+                    "profesor": "Gerard Rodriguez",
+                    "aula": "A45"
+                }
+            ],
+            "jueves": [
+                {
+                    "horaInicio": "15:25",
+                    "horaFin": "16:20",
+                    "curso": "DAW2",
+                    "modulo": "M12",
+                    "profesor": "Roger Sobrino",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "16:20",
+                    "horaFin": "17:15",
+                    "curso": "DAW2",
+                    "modulo": "M12",
+                    "profesor": "Pere Guitart",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "17:15",
+                    "horaFin": "18:10",
+                    "curso": "DAW2",
+                    "modulo": "M08",
+                    "profesor": "Juanma Sanchez",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "18:30",
+                    "horaFin": "21:00",
+                    "curso": "DAW2",
+                    "modulo": "M06",
+                    "profesor": "Roger Sobrino",
+                    "aula": "A45"
+                }
+            ],
+            "viernes": [
+                {
+                    "horaInicio": "15:25",
+                    "horaFin": "16:20",
+                    "curso": "DAW2",
+                    "modulo": "M12",
+                    "profesor": "Roger Sobrino",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "16:20",
+                    "horaFin": "17:15",
+                    "curso": "DAW2",
+                    "modulo": "M12",
+                    "profesor": "Juanma Sanchez",
+                    "aula": "A45"
+                },
+                {
+                    "horaInicio": "17:15",
+                    "horaFin": "18:10",
+                    "curso": "DAW2",
+                    "modulo": "M09",
+                    "profesor": "Josep Oriol",
+                    "aula": "A45"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jonathan",
+      "surname": "Valle",
+      "username": "PatitoMilet",
+      "email": "jvalle@jaumebalmes.net",
+      "password": "secret",
+      "rol": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Herson",
+      "surname": "Vega",
+      "username": "hvega25",
+      "email": "hvega@jaumebalmes.net",
+      "password": "secret2",
+      "rol": "alumno"
+    },
+    {
+      "id": 3,
+      "name": "prueba",
+      "surname": "prueba",
+      "username": "prueba",
+      "email": "prueba@gmail.com",
+      "password": "prueba",
+      "rol": "admin"
+    },
+    {
+      "id": 4,
+      "name": "Roger",
+      "surname": "Sobrino",
+      "username": "rsobrinog",
+      "email": "rsobrinog@jaumebalmes.net",
+      "password": "rsobrinog",
+      "rol": "profesor"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+    "group": [
+        {
+            "id":1,
+            "grupo": "DAM 2",
+            "curso": "2",
+            "aula": "aula dibuix",
+            "cicle": "DAM",
+            "grupoId": 1
+        },
+        {
+            "id":2,
+            "grupo": "DAW 1",
+            "curso": "1",
+            "aula": "aula 11",
+            "cicle": "DAW",
+            "grupoId": 2
+        },
+        {
+            "id":3,
+            "grupo": "DAW 2",
+            "curso": "2",
+            "aula": "45",
+            "cicle": "DAW",
+            "grupoId": 3
+        },
+        {
+            "id":4,
+            "grupo": "DAM 2",
+            "curso": "2",
+            "aula": "aula 11",
+            "cicle": "DAM",
+            "grupoId": 4
+        },
+        {
+            "id":5,
+            "grupo": "SMIX 2",
+            "curso": "2",
+            "aula": "aula 48",
+            "cicle": "SMIX",
+            "grupoId": 5
+        },
+        {
+            "id":6,
+            "grupo": "SMIX 1",
+            "curso": "1",
+            "aula": "45",
+            "cicle": "SMIX",
+            "grupoId": 6
+        },
+        {
+            "id":7,
+            "grupo": "DAM 2",
+            "curso": "2",
+            "aula": "45",
+            "cicle": "DAM",
+            "grupoId": 7
+        },
+        {
+            "id":8,
+            "grupo": "DAM 1",
+            "curso": "1",
+            "aula": "aula 11",
+            "cicle": "DAM",
+            "grupoId": 8
+        },
+        {
+            "id":9,
+            "grupo": "DAW 2",
+            "curso": "2",
+            "aula": "aula 48",
+            "cicle": "DAW",
+            "grupoId": 9
+        },
+        {
+            "id":10,
+            "grupo": "DAW 2",
+            "curso": "2",
+            "aula": "aula 45",
+            "cicle": "DAW",
+            "grupoId": 10
+        },
+        {
+            "id":11,
+            "grupo": "DAW 1",
+            "curso": "1",
+            "aula": "aula 11",
+            "cicle": "DAW",
+            "grupoId": 11
+        },
+        {
+            "id":12,
+            "grupo": "DAM 2",
+            "curso": "2",
+            "aula": "aula dibuix",
+            "cicle": "DAM",
+            "grupoId": 12
+        },
+        {
+            "id":13,
+            "grupo": "DAM 1",
+            "curso": "1",
+            "aula": "aula 45",
+            "cicle": "DAM",
+            "grupoId": 13
+        },
+        {
+            "id":14,
+            "grupo": "SMIX 2",
+            "curso": "2",
+            "aula": "aula 12",
+            "cicle": "SMIX",
+            "grupoId": 14
+        },
+        {
+            "id":15,
+            "grupo": "SMIX 1",
+            "curso": "2",
+            "aula": "aula dibuix",
+            "cicle": "SMIX",
+            "grupoId": 15
+        }
+        
+    ]
+}

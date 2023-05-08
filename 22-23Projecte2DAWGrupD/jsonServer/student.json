@@ -1,0 +1,148 @@
+{
+    "students": [
+        {
+          "studentId": 1,
+          "name": "Jonathan",
+          "surname": "valle",
+          "email": "jvalle@jaumebalmes.net",
+          "group": "DAW 2",
+          "rol": "admin"
+        },
+        {
+          "studentId": 2,
+          "name": "Herson",
+          "surname": "Vega",
+          "email": "hvega@jaumebalmes.net",
+          "group": "SMIX 2",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 3,
+          "name": "Adrian",
+          "surname": "Berruezo",
+          "email": "aberruez@jaumebalmes.net",
+          "group": "DAW 1",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 4,
+          "name": "martin",
+          "surname": "Casco",
+          "email": "mcasco@jaumebalmes.net",
+          "group": "DAW 2",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 5,
+          "name": "Leonardo",
+          "surname": "Chávez",
+          "email": "lchavez21@jaumebalmes.net",
+          "group": "DAW 1",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 6,
+          "name": "Ivan",
+          "surname": "Cózar",
+          "email": "icozar21@jaumebalmes.net",
+          "group": "DAM 2",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 7,
+          "name": "Joan",
+          "surname": "Giménez",
+          "email": "jgimenez@jaumebalmes.net",
+          "group": "DAM 2",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 8,
+          "name": "Guillem",
+          "surname": "Jimenez",
+          "email": "gjimenez@jaumebalmes.net",
+          "group": "SMIX 1",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 9,
+          "name": "Eduard",
+          "surname": "Miranda",
+          "email": "emirand20@jaumebalmes.net",
+          "group": "DAW 2",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 10,
+          "name": "Aitor",
+          "surname": "Monge",
+          "email": "amonge20@jaumebalmes.net",
+          "group": "DAW 2",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 11,
+          "name": "Ivan",
+          "surname": "Petrov",
+          "email": "ipetrov20@jaumebalmes.net",
+          "group": "DAW 2",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 12,
+          "name": "Matias",
+          "surname": "Rodríguez",
+          "email": "mrodrigu@jaumebalmes.net",
+          "group": "SMIX 1",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 13,
+          "name": "Mitchel",
+          "surname": "Rosado",
+          "email": "mrosado19@jaumebalmes.net",
+          "group": "SMIX 1",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 14,
+          "name": "Raúl",
+          "surname": "Rufo",
+          "email": "rrufo19@jaumebalmes.net",
+          "group": "DAM 1",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 15,
+          "name": "Kevin",
+          "surname": "Sama",
+          "email": "jsama22@jaumebalmes.net",
+          "group": "SMIX 2",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 16,
+          "name": "Raúl",
+          "surname": "Vaquerizo",
+          "email": "rvaqueri@jaumebalmes.net",
+          "group": "DAW 1",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 17,
+          "name": "Reymon",
+          "surname": "Vega",
+          "email": "rvega@jaumebalmes.net",
+          "group": "DAW 2",
+          "rol": "alumno"
+        },
+        {
+          "studentId": 18,
+          "name": "Luis",
+          "surname": "Castillo",
+          "email": "lcastill@jaumebalmes.net",
+          "group": "DAW 2",
+          "rol": "alumno"
+        }
+      ]
+}

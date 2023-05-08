@@ -1,0 +1,61 @@
+/*Edición del contenedor menu y el logo usuario*/
+.contenedor_menu .logo_usuario i {
+    font-size: 70px;
+    margin-top: 30px;
+}
+/*Ajustar el contenedor */
+.contenedor_menu {
+    display: grid;
+    justify-content: center;
+}
+
+/*Ajuste del contenedor de botones*/
+.contenedor_botones {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    margin-top: 40px;
+}
+
+/*Edición de los botones del menu*/
+.contenedor_botones button{
+    padding: 10px;
+    border: none;
+    background-color: #1A3373;
+    color: white;
+    font-weight: bold;
+    height: 90px;
+    width: 300px;
+    cursor: pointer;
+    font-size: 25px;
+}
+.contenedor_botones button:hover{
+    background-color: rgb(56, 73, 206);
+    transition: all 300ms;
+}
+
+/*Edición del enlace de los menu*/
+.contenedor_botones a{
+   color: white;
+   text-decoration: none;
+   text-align: center;
+}
+
+.contenedor_botones i{
+    font-size: 30px;
+    padding-right: 10px;
+    vertical-align: top;
+    
+}
+
+@media screen and (max-width: 700px) {
+    .contenedor_botones{
+        grid-template-columns: 1fr;
+        gap: 25px;
+        margin-top: 15px;
+    }
+    .contenedor_botones button {
+        height: 75px;
+    }
+}
+
